@@ -291,7 +291,7 @@ footer p {
     font-weight: 400;
 }
 
-@media (min-width:400px) {
+@media (min-width:480px) {
 
     .container {
         width: 100%;
